@@ -1,0 +1,5 @@
+.idea
+/mysite/static
+*.sqlite3
+/venv
+*.whl
